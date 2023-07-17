@@ -1,0 +1,21 @@
+p  {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+body {
+    background-color: rgba(161, 162, 163, 0.795);
+    image-rendering: optimizeQuality;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2mXjubKWNjVDx93xxpSHxQzmNFhV3fs9AICHkxLIhCqX-8kt);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+
