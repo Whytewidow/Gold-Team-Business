@@ -1,0 +1,50 @@
+
+
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  font-family: arial;
+  font-weight: bold;
+  text-align: center;
+}
+div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center; 
+  justify-content: space-around;
+}
+
+
+.game {
+  width: 350px;
+  height: 350px;
+}
+
+.game2 {
+  width: 350px;
+  height: 350px;
+}
+
+.game3 {
+  width: 350px;
+  height: 350px;
+}
+
+.pimg {
+  font-size: 20px;
+  color: white;
+  
+}
+
+.para2 {
+  font-size: 20px;
+  color: white;
+}
+
+.para3 {
+  font-size: 20px;
+  color: white;
+}
